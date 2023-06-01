@@ -1,0 +1,6 @@
+more experiment on the value of the minimum std.
+
+- cma-IH    : cma with default integer handling
+- cma-noIH  : cma without the integer handling option
+- cma-ESwM  : cma-es with margin
+- cma-xxx   : value for min std is equal to xxx times 0.xxx e.g. cma-100 has a min std of 0.100
